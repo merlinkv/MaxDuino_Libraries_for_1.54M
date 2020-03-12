@@ -1,3 +1,8 @@
+# Advise #
+Library has bee modified by droman to allow use lcd.begin(); or lcd.init(); to initialize LCD screens.
+
+Now, you can use one or other command to start the screeen.
+
 # Installation #
 Create a new folder called "LiquidCrystal_I2C" under the folder named "libraries" in your Arduino sketchbook folder.
 Create the folder "libraries" in case it does not exist yet. Place all the files in the "LiquidCrystal_I2C" folder.
