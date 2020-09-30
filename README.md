@@ -9,6 +9,3 @@ Create the folder "libraries" in case it does not exist yet. Place all the files
 
 # Usage #
 To use the library in your own sketch, select it from *Sketch > Import Library*.
-
--------------------------------------------------------------------------------------------------------------------
-This library is based on work done by DFROBOT (www.dfrobot.com).
