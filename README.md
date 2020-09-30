@@ -1,5 +1,5 @@
 # Advise #
-Library has been modified by droman to allow the use of lcd.begin(); or lcd.init(); to initialize LCD screens.
+LiquidCrystal_I2C Library has been modified by droman to allow the use of lcd.begin(); or lcd.init(); to initialize LCD screens.
 
 Now, you can use one or other command.
 
