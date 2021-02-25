@@ -15,7 +15,7 @@ To use the library in your own sketch, select it from *Sketch > Import Library*.
 
 # IMPORTANT ADVISE #
 
-The next steps really aren't needed but maybe can solve issues commented by some users.
+The next steps really aren't needed but maybe can solve issues reported by some users.
 
 I have included two new files "Arduino_Libraries.zip" & "Arduino_Libraries_Sketch_Folder.zip"
 
