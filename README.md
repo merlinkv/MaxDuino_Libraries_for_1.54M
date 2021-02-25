@@ -25,7 +25,7 @@ These zip files include all my working libraries.
 2) Go to the Arduino\libraries folder & delete all contents
 3) Unzip "Arduino_Libraries.zip" in the Arduino\libraries folder
 4) Now you can see inside many new folders
-5) Go to your ..\Documents\libraries folder & delete all contents
+5) Go to your sketch  ..\Documents\libraries folder & delete all contents
 6) Unzip "Arduino_Libraries_Sketch_Folder.zip" in the sketch folder, by default ..\Documents\libraries
 7) Again, you can see inside many new folders.
 8) Start Arduino IDE
