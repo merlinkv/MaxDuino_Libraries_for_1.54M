@@ -17,7 +17,7 @@ To use the library in your own sketch, select it from *Sketch > Import Library*.
 
 The next steps really aren't needed but maybe can solve issues commented by some users.
 
-I have included two new files "Arduino_Libraries.zip" & "Arduino_Libraries_Documents.zip"
+I have included two new files "Arduino_Libraries.zip" & "Arduino_Libraries_Sketch_Folder.zip"
 
 These zip files include all my working libraries.
 
@@ -26,7 +26,7 @@ These zip files include all my working libraries.
 3) Unzip "Arduino_Libraries.zip" in the Arduino\libraries folder
 4) Now you can see inside many new folders
 5) Go to your ..\Documents\libraries folder & delete all contents
-6) Unzip "Arduino_Libraries_Documents.zip" in the sketch folder, by default ..\Documents\libraries
+6) Unzip "Arduino_Libraries_Sketch_Folder.zip" in the sketch folder, by default ..\Documents\libraries
 7) Again, you can see inside many new folders.
 8) Start Arduino IDE
 9) Try to compile MegaDuino Firmware, it must work OK !!!!!
