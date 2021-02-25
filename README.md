@@ -26,7 +26,7 @@ These zip files include all my working libraries.
 3) Unzip "Arduino_Libraries.zip" in the Arduino\libraries folder
 4) Now you can see inside many new folders
 5) Go to your ..\Documents\libraries folder & delete all contents
-6) Unzip "Arduino_Libraries_Documents.zip" in the ..\Documents\libraries folder
+6) Unzip "Arduino_Libraries_Documents.zip" in the sketch folder, by default ..\Documents\libraries folder
 7) Again, you can see inside many new folders.
 8) Start Arduino IDE
 9) Try to compile MegaDuino Firmware, it must work OK !!!!!
